@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/main.scss"],"names":[],"mappings":"AAAA;AACE;EACA","file":"default-setup.e31bb0bc.css","sourceRoot":"..","sourcesContent":[".main {\n  /* Reference an image file */\n  color: red;\n}\n"]}
